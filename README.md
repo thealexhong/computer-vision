@@ -1,2 +1,2 @@
-# Computer Vision Foundations
-Various computer vision algorithms in MATLAB.
+#Computer Vision
+This repository contains various computer vision algorithms and techniques in MATLAB.
